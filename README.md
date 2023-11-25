@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @0x736E
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning how to be human
-- 💞️ I’m looking to collaborate on Secure Software Development, Secure SDLC, etc.
+- 👋 Hi, I’m @0x736
 - 📫 How to reach me - email 0x763E@protonmail.com
 
 <!---
